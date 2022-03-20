@@ -7,4 +7,3 @@ Libft: Library of more than 20 functions that streamline future projects in C
 - Utilized: Programmed in C Using Visual Studio Code IDE, LLDB Debugger, Header File, Makefile, Pointer Manipulation, Linked List Structure
 
 -Type 'make' to compile all functions
--Type 'make clean' to remove compiled files
