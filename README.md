@@ -6,5 +6,5 @@ Libft: Library of more than 20 functions that streamline future projects in C
 - List manipulation, including creation of new lists, adding nodes to beginning of a list, and returning last node of a list
 - Utilized: Programmed in C Using Visual Studio Code IDE, LLDB Debugger, Header File, Makefile, Pointer Manipulation, Linked List Structure
 
-Type 'make' to compile all functions
-Type 'make clean' to remove compiled files
+-Type 'make' to compile all functions
+-Type 'make clean' to remove compiled files
